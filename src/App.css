@@ -33,7 +33,7 @@ section {
   gap: 1.5rem;
   max-width: 600px;
   margin: auto;
-  margin-bottom: 3rem;
+  margin-block: 3rem;
   min-height: 27vh;
   background-color: rgba(245, 245, 245, 0.353);
 }

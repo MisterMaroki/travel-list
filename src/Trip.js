@@ -1,15 +1,14 @@
 import LocationOnIcon from '@mui/icons-material/LocationOn';
 import './App.css';
-export default function Trip(props) {
-	const {
-		description,
-		endDate,
-		googleMapsUrl,
-		imageUrl,
-		location,
-		startDate,
-		title,
-	} = props;
+export default function Trip({
+	description,
+	endDate,
+	googleMapsUrl,
+	imageUrl,
+	location,
+	startDate,
+	title,
+}) {
 	return (
 		<>
 			<div className="trip--div">

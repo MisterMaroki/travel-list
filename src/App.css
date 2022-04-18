@@ -35,7 +35,7 @@ section {
   margin: auto;
   margin-bottom: 3rem;
   min-height: 27vh;
-  background-color: whitesmoke;
+  background-color: rgba(245, 245, 245, 0.353);
 }
 
 .trip--image {
